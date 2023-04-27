@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    font-family: sans-serif;
+    color: #222;
+  }
+  .menu ul {
+    background:#33F9FF;
+    list-style-type: none;
+    text-align: center;
+  }
+  .menu li {
+    color:#FF3361;
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+  }
+  .header{
+    text-align: center;
+  }
+  .header li{
+    color:darkorange;
+  }
+  .header1{
+    color:deeppink;
+    text-align: left;
+  }
+  .post li{
+    color:darkorange;
+    text-align: center;
+  }
+  .post1{
+    color:darkorchid;
+    text-align: left;
+  }
+  .post2{
+    color:darkorange;
+    text-align: center;
+  }
+  .post3{
+    color:aquamarine;
+    text-align: left;
+  }
